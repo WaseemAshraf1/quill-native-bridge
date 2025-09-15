@@ -12,7 +12,8 @@ This means the project is separated into the following packages:
     * [`quill_native_bridge_android`](https://pub.dev/packages/quill_native_bridge_android)
     * [`quill_native_bridge_ios`](https://pub.dev/packages/quill_native_bridge_ios)
     * [`quill_native_bridge_macos`](https://pub.dev/packages/quill_native_bridge_macos)
-    * [`quill_native_bridge_linux`](https://pub.dev/packages/quill_native_bridge_linux)
+
+[//]: # (    * [`quill_native_bridge_linux`]&#40;https://pub.dev/packages/quill_native_bridge_linux&#41;)
     * [`quill_native_bridge_windows`](https://pub.dev/packages/quill_native_bridge_windows)
     * [`quill_native_bridge_web`](https://pub.dev/packages/quill_native_bridge_web)
 
